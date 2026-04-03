@@ -1,0 +1,11 @@
+git init 
+git status 
+git add <file name>
+git commit -m "messages"
+git restore <file name> 
+
+
+git remote set-url origin https://github.com/Manjil11/github-for-devops
+git remote -v 
+git push origin master 
+
